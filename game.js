@@ -43,7 +43,7 @@ function validateGuess(guess) {
 
 function checkGuess(guess) {
     if (guess === randomNumber) {
-        displayMessage('Hurrah! You Win!');
+        displayMessage('Hurrah!  You Win!');
         endGame();
     } else if (guess < randomNumber) {
         displayMessage('Too low! Try again');
