@@ -30,12 +30,12 @@
     <ol>
         <li>Download or clone the project from the repository.</li>
         <li>Ensure all the required files are in the same folder, including the <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong> files.</li>
-        <li>Open the <strong>index.html</strong> file in a web browser.</li>
+        <li>Open the <strong>game.html</strong> file in a web browser.</li>
         <li>Start playing the game by entering a number and clicking "Submit Guess".</li>
     </ol>
     <h2>Project Structure</h2>
     <ul>
-        <li><strong>index.html</strong>: The main HTML file for the structure of the game.</li>
+        <li><strong>game.html</strong>: The main HTML file for the structure of the game.</li>
         <li><strong>game.js</strong>: The JavaScript file containing the game logic and interactivity.</li>
         <li><strong>game.css</strong>: The CSS file for styling the game (optional, can be added later).</li>
     </ul>
@@ -45,8 +45,4 @@
         <li>Implement a timer to make the game more challenging.</li>
         <li>Enhance the user interface with improved styling and animations.</li>
     </ul>
-    <h2>Author</h2>
-    <p><strong>Your Name</strong></p>
-    <p>This project was developed as part of my internship with EliTECH Intern.</p>
-  </body>
-</html>
+    </html>
