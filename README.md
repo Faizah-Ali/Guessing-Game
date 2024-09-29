@@ -2,13 +2,7 @@
   <head></head>
   <body>
      <h1>Guessing Game</h1>   
-    ![Screenshot 2024-09-30 000429](https://github.com/user-attachments/assets/0ad015df-9228-46f1-9994-9bfc63ea7af9)
-![Screenshot 2024-09-30 000453](https://github.com/user-attachments/assets/222cc1ec-e306-4bfd-b4b4-f097f49b010c)
-![Screenshot 2024-09-30 000516](https://github.com/user-attachments/assets/2a4922b2-5108-4da1-b34b-32a5e9152d14)
-![Screenshot 2024-09-30 000609](https://github.com/user-attachments/assets/a6cb5402-2db0-4ab2-beb6-1eebabda2aa1)
-![Screenshot 2024-09-30 000714](https://github.com/user-attachments/assets/c23ee12b-308a-4195-a35b-48afa0b04e31)
-
-    <h2>Project Overview</h2>
+       <h2>Project Overview</h2>
     <p>This is a simple <strong>Number Guessing Game</strong> where the player needs to guess a random number between 1 and 100. The player has 10 attempts to guess the correct number. After each guess, the game provides feedback, indicating whether the guess was too low, too high, or correct.</p>
     <h2>Features</h2>
     <ul>
